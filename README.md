@@ -16,7 +16,7 @@ The app saves the product inventory on a database, providing users with quick an
 1.	Node.js backend server - Server side scripting to build REST API’s.
 2.	Android application - Mobile application development using Java.
 3.	MongoDB - Primary database.
-4.	AWS Lambda - Host serverless backend REST API’s in the cloud.
+4.	AWS Elastic BeanStalk - Host backend REST API’s in the cloud.
 5.	Amazon Rekognition - Image recognition using machine learning.
 6.	OpenAI: Product Summarization.
 
