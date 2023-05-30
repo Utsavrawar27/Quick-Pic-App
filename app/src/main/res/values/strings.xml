@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Quick Pic</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="product_fragment">Product fragment</string>
+    <string name="product_des_fragment">Product Description fragment</string>
+    <string name="setting_fragment">Setting fragment</string>
+
+    <!--    <string name="swipe_left_for_register">Swipe Left for Register</string>-->
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="e_mail">Email</string>
+    <string name="tag">Let\'s join us!!</string>
+    <string name="register">Register</string>
+    <string name="re_type_password">Re-type Password</string>
+    <string name="your_name">Full Name</string>
+    <string name="swipeRight">Signup here!!</string>
+    <string name="quick_pic">Quick Pic</string>
+    <string name="Inventory">Inventory</string>
+    <string name="Scan_Image">Scan Image</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="add_name">Add Name</string>
+    <string name="add_image">Add Image</string>
+    <string name="save">Save</string>
+    <string name="add_price">Add Price</string>
+    <string name="add_quantity">Add Quantity</string>
+    <string name="add_barcode">Add Barcode</string>
+    <string name="add_tag">Add Tag</string>
+    <string name="add_item">Add Item</string>
+    <string name="item_image_description">Item Image</string>
+    <string name="add_item_to_list_text">Tap the "+" button below to record the products in your Store</string>
+    <string name="action_delete">Delete</string>
+    <string name="menu">menu</string>
+    <string name="Summary_top">Summarize</string>
+
+</resources>

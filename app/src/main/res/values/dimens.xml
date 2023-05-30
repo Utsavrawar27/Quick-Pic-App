@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Indicator height of the selected Tab in TabLayout -->
+    <dimen name="tab_main_indicator_height">4dp</dimen>
+
+<!--     FOR ALL DESIGN COMPONENTS-->
+<!--    &lt;!&ndash; ========================= &ndash;&gt;-->
+<!--    <dimen name="btn_material_size">48dp</dimen>-->
+<!--    <dimen name="fab_material_margin">16dp</dimen>-->
+<!--    <dimen name="fab_material_normal_size">56dp</dimen>-->
+<!--    <dimen name="app_bar_no_elevation">0dp</dimen>-->
+<!--    <dimen name="dialog_material_elevation">24dp</dimen>-->
+
+<!--    &lt;!&ndash; ======================================== &ndash;&gt;-->
+<!--    &lt;!&ndash; FOR THE PRODUCT CONFIG ACTIVITY/FRAGMENT &ndash;&gt;-->
+<!--    &lt;!&ndash; ======================================== &ndash;&gt;-->
+<!--    <dimen name="guideline_product_config_horizontal_keyline">16dp</dimen>-->
+<!--    <dimen name="image_product_config_item_photo_height">200dp</dimen>-->
+<!--    <dimen name="image_product_config_add_photo_padding">8dp</dimen>-->
+<!--    <dimen name="product_config_outer_content_margin">16dp</dimen>-->
+<!--    <dimen name="product_config_inner_content_margin">8dp</dimen>-->
+<!--    <dimen name="spinner_product_config_category_min_width">72dp</dimen>-->
+<!--    <dimen name="spinner_product_config_category_max_width">120dp</dimen>-->
+<!--    <dimen name="spinner_product_config_category_item_padding">8dp</dimen>-->
+<!--    <dimen name="edittext_product_config_category_margin_left">16dp</dimen>-->
+<!--    <dimen name="text_product_config_attrs_label_margin_top">24dp</dimen>-->
+</resources>
